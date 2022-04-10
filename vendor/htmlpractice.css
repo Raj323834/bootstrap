@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+
+.q1{
+    background-color: grey;
+        height: 200px;
+}
+
+.q21{
+    background-color: rgb(212, 150, 16);
+}
+.q22{
+    background-color: black;
+    
+}
+.q23 {
+    color: yellow;
+    background-color: #24be65;
+    border-color: #0d6efd;
+    float: right;
+  }
+  .q24 {
+    
+    background-color: red;
+    border-color:red;
+    float: right;
+  }
+  .table {
+   
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    vertical-align: top;
+    border-color: #062a4e;
+    border-width: 1px 0;
+    
+  }
+  table, th, td {
+      border: 1px solid black;
+  }
