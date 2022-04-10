@@ -10,6 +10,9 @@
 .q21{
     background-color: rgb(212, 150, 16);
 }
+.q27{
+    background-color: rgb(212, 150, 16);
+}
 .q22{
     background-color: black;
     
@@ -38,4 +41,11 @@
   }
   table, th, td {
       border: 1px solid black;
+  }
+
+  .q7{
+      background-color: #24be65;
+  }
+  .q8{
+      background-color: #0d6efd;
   }
